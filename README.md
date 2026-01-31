@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/Pepyn0/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
+  <img src="" alt="Card header"/>
 </div>
 
 <p align="center">
@@ -21,16 +21,11 @@
 
 <div>
 
-  ## 🧭 &nbsp;About Me
+  ## About Me
 
-  - 📚 Information System student at UFPI.
-  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
-
-  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter** and **Python**.
-
-  - 💬 Ask me about **any technology**.
-
-  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
+ Hi! I'm Mariana Carvajal, a 7th-semester Systems Engineering student with a strong foundation in technology, organization, and problem-solving. I combine technical training with real-world administrative and customer facing experience, which allows me to understand both systems and people.
+ 
+ I’m especially drawn to databases and Front-End development. I enjoy working with data structure and organization on one side, and creating clean, user friendly interfaces on the other.
 
   <br>
   
