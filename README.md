@@ -125,7 +125,7 @@
 
 ## Connect with me 
 
-<a href="mailto:mariana.carvajalr@udea.edu.co">
+<a href="mailto:mariana.carvajalr@udea.edu.co" target="_blank">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" 
        width="60px" 
        alt="Gmail">
